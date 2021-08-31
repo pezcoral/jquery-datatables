@@ -8,10 +8,6 @@ function golist() {
     var columnasdata = [{ "data": "AA" },
         { "data": "BB" },
         { "data": "CC" },
-        { "data": "DD" },
-        { "data": "EE" },
-        { "data": "FF" },
-        { "data": "GG" },
         { "data": "ACCIONES" }];
 
     /*Consultar procesos y mostrar*/
